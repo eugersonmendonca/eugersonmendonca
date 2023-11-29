@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gerson Mendonça. 👋
 
-<p>Em construção</p>
+<p>Em construção...</p>
 
 <div style="display: inline_block"><br>
 
