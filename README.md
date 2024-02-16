@@ -1,6 +1,9 @@
 ### Olá, eu sou Gerson Mendonça. 👋
 
 #
+### Sobre mim
+
+#
 ### Habilidades
 
 * Analise de dados
