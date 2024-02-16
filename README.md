@@ -16,7 +16,7 @@
 <div>
   <h4>Analise de desempenho no enem</h4>
   <p>Projeto realizado ...</p>
-  <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Arquivos</a>
+  <a href="https://github.com/eugersonmendonca/analise_desempenho_enem" target="_blank">Arquivos</a>
 </div>
 
 #
