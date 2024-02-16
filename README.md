@@ -3,6 +3,11 @@
 #
 ### Habilidades
 
+* Analise de dados
+* Visualização de dados
+* Modelagem de dados
+* Tratamento de dados
+
 #
 ### Certificados
 
