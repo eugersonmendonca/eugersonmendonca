@@ -2,7 +2,7 @@
 
 
 #
-##Habilidades
+## Habilidades
 
 
 #
@@ -36,7 +36,7 @@
 </div>
 
 #
-##Curriculo em pdf
-  
+## Curriculo em pdf
+<a href="https://github.com/curriculo_gerson_augusto_mendonca.pdf"></a>
 
 
