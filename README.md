@@ -2,11 +2,11 @@
 
 
 #
-<h4>Habilidades</h4>
+<h3>Habilidades</h3>
 
 
 #
-<h4>Certificados</h4>
+<h3>Certificados</h3>
 
 
 
