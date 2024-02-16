@@ -4,7 +4,7 @@
 ## Habilidades
 
 
-##Certificados
+## Certificados
 
 
 
@@ -16,7 +16,7 @@
   <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Arquivos</a>
 </div>
 
-# Ferramentas
+## Ferramentas
 <div style="display: inline_block">
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
