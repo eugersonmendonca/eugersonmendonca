@@ -1,12 +1,10 @@
 ### Olá, eu sou Gerson Mendonça. 👋
 
 
-#
 ## Habilidades
 
 
-#
-##<h3>Certificados</h3>
+## <h3>Certificados</h3>
 
 
 
