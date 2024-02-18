@@ -14,14 +14,16 @@
 #
 ### Certificados
 
+
+
 #
 ### Projetos
 
 <div>
-  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a> </h4>
+  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a> </h4>
 </div>
 <div>
-  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
+  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
 </div>
 
 
@@ -43,6 +45,6 @@
 
 #
 ### Curriculo em pdf
-<a href="https://github.com/eugersonmendonca/eugersonmendonca/blob/main/curriculo_gerson_augusto_mendonca.pdf">Visualizar</a>
+:link: <a href="https://github.com/eugersonmendonca/eugersonmendonca/blob/main/curriculo_gerson_augusto_mendonca.pdf">Visualizar</a>
 
 
