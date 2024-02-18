@@ -44,6 +44,6 @@
 
 #
 ### Curriculo em pdf
-<a href="https://github.com/curriculo_gerson_augusto_mendonca.pdf">Visualizar</a>
+<a href="https://github.com/eugersonmendonca/eugersonmendonca/blob/main/curriculo_gerson_augusto_mendonca.pdf">Visualizar</a>
 
 
