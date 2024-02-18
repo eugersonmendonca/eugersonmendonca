@@ -23,7 +23,7 @@
   <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a> </h4>
 </div>
 <div>
-  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
+  <h4>Bussiness intelligence (BI) | Power BI, Locker, Tableau | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
 </div>
 
 
