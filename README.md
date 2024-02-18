@@ -19,9 +19,10 @@
 ### Projetos
 
 <div>
-  <h4>Analise de desempenho no enem</h4>
-  <p>Uma estudo realizado com alunos que realizaram o ENEM, analisando o desempenho nas provas, e alguns dos fatores que podem influenciar nesses resultados.</p>
-  <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Arquivos</a>
+  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear</h4> > <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a>
+</div>
+<div>
+  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear</h4><a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a>
 </div>
 
 
