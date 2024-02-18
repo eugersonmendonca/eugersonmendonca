@@ -19,7 +19,7 @@
 ### Projetos
 
 <div>
-  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear</h4> > <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a>
+  <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear</h4><a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a>
 </div>
 <div>
   <h4>Analise de desempenho no enem | Linguagem R, Excel, Regressão Linear</h4><a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a>
