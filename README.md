@@ -14,9 +14,6 @@
 #
 ### Certificados
 
-> [!NOTE]
-> TESTE
-
 #
 ### Projetos
 
