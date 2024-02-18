@@ -1,4 +1,4 @@
-### Olá, eu sou Gerson Mendonça. 👋
+### Olá, eu sou Gerson. 👋
 
 #
 ### Sobre mim
