@@ -23,7 +23,7 @@
   <h4>Analise de desempenho no enem | Linguagem R, Excel, Analise descritiva, Teste de hipotese, Modelo de regressão | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a> </h4>
 </div>
 <div>
-  <h4>Dashboard de vendas | Power BI, Excel | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
+  <h4>Dashboard de vendas | Power BI, Excel | :link: <a href="https://github.com/eugersonmendonca/power_bi">Acessar aqui</a></h4>
 </div>
 
 
