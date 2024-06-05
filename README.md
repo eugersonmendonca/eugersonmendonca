@@ -6,11 +6,11 @@
 #
 ### Habilidades
 
-* Analise de dados
-* Visualização de dados
-* Modelagem de dados
-* Tratamento de dados
-* Trabalho em equipe
+* Analise de dados;
+* Visualização de dados;
+* Modelagem de dados;
+* Tratamento de dados;
+* Trabalho em equipe;
 
 #
 ### Certificados
