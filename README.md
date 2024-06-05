@@ -2,6 +2,11 @@
 
 #
 ### Sobre mim
+<div>
+  <h4>Profissional de TI, atuando na área de tecnologia desde 2015. Com experiência na área de dados, desenvolvimento web e suporte e infraestrutura. 
+
+Atencioso quando se trata de entender a necessidade do cliente/instituição, extremamente organizado, com facilidade de trabalho em equipe, gosto bastante de ajudar, obter melhorias e bons resultados no que me proponho a atuar.</h4>
+</div>
 
 #
 ### Habilidades
@@ -11,13 +16,6 @@
 * Modelagem de dados;
 * Tratamento de dados;
 * Trabalho em equipe;
-
-#
-### Certificados
-
-<div>
-  <h4>Certificados | :link: <a href="https://drive.google.com/drive/folders/12qSe2G35sIRiaTLpLD5OubsMEDIVWHQp?usp=drive_link">Acessar aqui</a></h4>
-</div>
 
 #
 ### Projetos
