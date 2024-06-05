@@ -10,6 +10,7 @@
 * Visualização de dados
 * Modelagem de dados
 * Tratamento de dados
+* Trbalho em equipe
 
 #
 ### Certificados
