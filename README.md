@@ -28,7 +28,7 @@ Atencioso quando se trata de entender a necessidade do cliente/instituição, ex
 </div>
 
 <div>
-  <h4>Análise de dados vendas | Excel, KPI, Análise comparativa, Tabela, Gráfico de barras/colunas, Slicers | :link: <a href="https://github.com/eugersonmendonca/analise-de-dados-excel">Acessar aqui</a></h4>
+  <h4>Análise de dados vendas | Excel, KPI, Análise comparativa, Tabela, Gráfico, Slicers, Dashboard | :link: <a href="https://github.com/eugersonmendonca/analise-de-dados-excel">Acessar aqui</a></h4>
 </div>
 
 #
