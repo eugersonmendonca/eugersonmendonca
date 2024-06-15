@@ -21,7 +21,7 @@ Atencioso quando se trata de entender a necessidade do cliente/instituição, ex
 ### Projetos
 
 <div>
-  <h4>Análise de desempenho no enem | Linguagem R, Excel, Analise descritiva, Teste de hipotese, Modelo de regressão | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a> </h4>
+  <h4>Análise de desempenho no enem | Estatísiíca, Linguagem R, Excel, Análise descritiva, Teste de hipotese, Modelo de regressão | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
 </div>
 <div>
   <h4>Análise de dados vendas | Power BI, Power Query, Excel | :link: <a href="https://github.com/eugersonmendonca/power_bi">Acessar aqui</a></h4>
