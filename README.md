@@ -1,5 +1,6 @@
 ### Olá, eu sou o Gerson. 👋
 
+<!--
 #
 ### Sobre mim
 <div>
@@ -15,6 +16,8 @@
 * Tratamento de dados;
 * Trabalho em equipe;
 * Habilidades organizacionais;
+
+-->
 
 #
 ### Projetos
