@@ -22,7 +22,6 @@
 #
 ### Projetos
 
-https://github.com/eugersonmendonca/gestao_de_vendas
 <div>
   <h4>Gestão de vendas | Excel, Power BI, Power Query, DAX, Análise Exploratória, Tratamento de Dados | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
 </div>
