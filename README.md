@@ -1,12 +1,12 @@
 ### Olá, eu sou o Gerson. 👋
 
-<!--
 #
 ### Sobre mim
 <div>
-  <h4></h4>
+  <h4>Atuo há mais de 5 anos na área de tecnologia. Sendo mais de 3 anos na área de dados, na qual estou buscando aprimorar meus conhecimentos através de capacitação profissional.</h4>
 </div>
 
+<!--
 #
 ### Habilidades
 
