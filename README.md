@@ -22,9 +22,15 @@
 #
 ### Projetos
 
+https://github.com/eugersonmendonca/gestao_de_vendas
+<div>
+  <h4>Gestão de vendas | Excel, Power BI, Power Query, DAX, Análise Exploratória, Tratamento de Dados | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+</div>
+
 <div>
   <h4>Análise de desempenho no enem | Estatística, Linguagem R, Excel, Análise descritiva, Teste de hipotese, Modelo de regressão | :link: <a href="https://github.com/eugersonmendonca/analise_desempenho_enem">Acessar aqui</a></h4>
 </div>
+
 <div>
   <h4>Análise de dados vendas | Power BI, Power Query, Excel | :link: <a href="https://github.com/eugersonmendonca/power_bi">Acessar aqui</a></h4>
 </div>
