@@ -23,6 +23,22 @@
 ### Projetos
 
 <div>
+  <h4>Projetos/Estudos Excel | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+</div>
+
+<div>
+  <h4>Projetos/Estudos SQL | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+</div>
+
+<div>
+  <h4>Projetos/Estudos Power BI | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+</div>
+
+<div>
+  <h4>Projetos/Estudos Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+</div>
+
+<div>
   <h4>Gestão de vendas | Excel, Power BI, Power query, Power pivot, DAX, Análise exploratória, Tratamento de dados | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
 </div>
 
