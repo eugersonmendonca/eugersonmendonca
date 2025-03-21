@@ -37,7 +37,7 @@
 </div>
 
 <div>
-  <h4>Projetos: Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/projetos_gestão_de_processos_de_negocio">Acessar aqui</a></h4>
+  <h4>Projetos: Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/projetos_gestao_de_processos_de_negocio">Acessar aqui</a></h4>
 </div>
 
 #
