@@ -23,19 +23,19 @@
 ### Projetos
 
 <div>
-  <h4>Projetos/Estudos Excel | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+  <h4>Projetos: Excel | :link: <a href="https://github.com/eugersonmendonca/projetos_excel">Acessar aqui</a></h4>
 </div>
 
 <div>
-  <h4>Projetos/Estudos SQL | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+  <h4>Projetos: SQL | :link: <a href="https://github.com/eugersonmendonca/projetos_sql">Acessar aqui</a></h4>
 </div>
 
 <div>
-  <h4>Projetos/Estudos Power BI | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+  <h4>Projetos: Power BI | :link: <a href="https://github.com/eugersonmendonca/projetos_power_bi">Acessar aqui</a></h4>
 </div>
 
 <div>
-  <h4>Projetos/Estudos Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/gestao_de_vendas">Acessar aqui</a></h4>
+  <h4>Projetos: Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/projetos_gestão_de_processos_de_negocio">Acessar aqui</a></h4>
 </div>
 
 <div>
