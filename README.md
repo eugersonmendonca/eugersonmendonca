@@ -4,6 +4,12 @@
 ### Sobre mim
 <div>
   <h4>Atuo há mais de 5 anos na área de tecnologia. Sendo mais de 3 anos na área de dados, na qual estou buscando aprimorar meus conhecimentos através de capacitação profissional.</h4>
+
+  <p>Atuo há mais de 5 anos na área de tecnologia, sendo mais de 3 anos dedicados à área de dados. 
+							No qual venho buscando aprimorar meus conhecimentos por meio de capacitação profissional.</p>
+
+ <p>Gosto bastante de obter melhorias através de dados, tento aplicar no meu dia a dia para meu crescimento pessoal. 
+							E espero contribuir bastante com meus conhecimentos na minha jornada profissional.</p>
 </div>
 
 <!--
