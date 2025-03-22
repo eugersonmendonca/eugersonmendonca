@@ -41,7 +41,7 @@
 </div>
 
 <div>
-  <h4>Projetos: Análise de Dados | :link: <a href="https://github.com/eugersonmendonca/projetos_analise_de_dados">Acessar aqui</a></h4>
+  <h4>Projetos: Linguagem R | :link: <a href="https://github.com/eugersonmendonca/projetos_linguagem_r">Acessar aqui</a></h4>
 </div>
 
 #
