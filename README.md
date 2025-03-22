@@ -40,6 +40,10 @@
   <h4>Projetos: Gestão de Processos de Negócio | :link: <a href="https://github.com/eugersonmendonca/projetos_gestao_de_processos_de_negocio">Acessar aqui</a></h4>
 </div>
 
+<div>
+  <h4>Projetos: Análise de Dados | :link: <a href="https://github.com/eugersonmendonca/projetos_analise_de_dados">Acessar aqui</a></h4>
+</div>
+
 #
 ### Ferramentas
 <div style="display: inline_block">
